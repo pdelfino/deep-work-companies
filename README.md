@@ -8,9 +8,10 @@ This is a *work in progress*, contributions are welcome.
 
 Cal Newport wrote the [book](https://www.amazon.com/Deep-Work-Cal-Newport-audiobook/dp/B0189PVAWY/ref=sr_1_1?dchild=1&keywords=deep+work&qid=1600695114&sr=8-1) in 2016.
 
-As described on Amazon: "Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a superpower in our increasingly competitive 21st-century economy. And yet, most people have lost the ability to go deep - spending their days instead in a frantic blur of email and social media, not even realizing there's a better way.
+As described on a 2012 post on hist blog: "“Professional activity performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.” 
 
-In Deep Work, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he instead celebrates the power of its opposite"
+Some concepts are easier to understand with their constrast. Shallow work is the opposite idea and is defined as: “Non-cognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create new value in the world and are easy to replicate.”
+
 
 If you want something shorter, have a look on [thiis guide](https://doist.com/blog/complete-guide-to-deep-work/)
  
