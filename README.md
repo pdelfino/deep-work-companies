@@ -1,6 +1,6 @@
 # Companies that value Deep Work
 
-A list of companies that endorse Cal Newport's Deep Work approach. This might be handy for people who likes to build stuff without intermitent, cheap and noisy interruptions.
+A list of companies that endorse Cal Newport's Deep Work approach. This might be handy for people who likes to build stuff without intermitent, cheap, and noisy interruptions.
 
 This is a *work in progress*, contributions are welcome.
 
