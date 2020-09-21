@@ -12,7 +12,7 @@ As described on Amazon: "Deep work is the ability to focus without distraction o
 
 In Deep Work, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he instead celebrates the power of its opposite"
 
-If you want something shorter, have a look on (thiis guide)[https://doist.com/blog/complete-guide-to-deep-work/]
+If you want something shorter, have a look on [thiis guide](https://doist.com/blog/complete-guide-to-deep-work/)
  
 
 ### Companies' names
