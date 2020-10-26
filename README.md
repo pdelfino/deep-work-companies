@@ -20,3 +20,5 @@ If you want something shorter than the book, have a look on [thiis guide](https:
 
 - [Rescue Time](https://www.rescuetime.com/)
 - [Basecamp](https://basecamp.com/)
+- [JusBrasil](https://www.jusbrasil.com.br/home)
+
