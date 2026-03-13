@@ -1,6 +1,6 @@
 # Deep Work Companies
 
-![Saint Jerome in His Study](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/D%C3%BCrer-Hieronymus-im-Geh%C3%A4us.jpg/600px-D%C3%BCrer-Hieronymus-im-Geh%C3%A4us.jpg)
+![Saint Jerome in His Study](./painting.jpg)
 
 *"Saint Jerome in His Study" (1514) by Albrecht Dürer — [Wikipedia](https://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(D%C3%BCrer))*
 
